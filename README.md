@@ -1,3 +1,29 @@
-# Audio-Classification-using-Machine-Learning
-The study of speech accents has gained significance in the field of English language studies as a result of the globalised and multicultural aspect of contemporary society. This study is to investigate the influence of accent on the process of speech recognition and the level of intelligibility among individuals who speak English. The present discourse will commence with an examination of the significance of accent in the realm of communication, as well as an exploration of the difficulties that arise from non-native accents in the English language. In the subsequent section, we shall present a comprehensive survey of the extant scholarly works pertaining to the study of speech accents. This review encompasses investigations about the evaluation of accents as perceived by both native and non-native speakers, as well as inquiries into the ramifications of accents on the efficacy of speech recognition technology. To facilitate a more comprehensive exploration of the subject matter, we want to undertake an independent study on accent analysis. This study will involve the utilisation of a substantial dataset comprising English language speakers from various cultural and linguistic backgrounds. The scope of our research will encompass the examination of the acoustic characteristics present in individuals' speech patterns. Additionally, we will employ machine learning algorithms to categorise and distinguish various accents. In conclusion, an examination of our findings will be undertaken to explore the potential ramifications for the domains of language instruction, speech recognition technologies, and cross-cultural communication. The successful decoding and classification of the audio files enabled us to distinguish between native and non-native languages. Consequently, our study offers novel perspectives on the significance of accent in English language communication and contributes to the expanding field of research on speech accent analysis.
+The study of speech accents has become increasingly vital within English language studies due to the globalized and multicultural nature of contemporary society. This repository serves as a platform for investigating the influence of accent on speech recognition processes and the level of intelligibility among English speakers.
+
+## Objectives
+* Examine the significance of accent in communication.
+* Explore challenges posed by non-native accents in English.
+* Survey existing scholarly works on speech accents.
+* Conduct an independent study on accent analysis.
+
+## Methodology
+Our study involves:
+
+* Compiling a diverse dataset of English speakers from various cultural and linguistic backgrounds.
+* Analyzing acoustic characteristics in individuals' speech patterns.
+* Utilizing machine learning algorithms for accent categorization.
+
+## Results
+* Successful decoding and classification of audio files.
+* Distinction between native and non-native languages.
+
+## Implications
+Our findings hold potential implications for:
+
+1. Language instruction methods.
+2. Development of speech recognition technologies.
+3. Enhancing cross-cultural communication.
+
+## Conclusion
+This repository contributes novel perspectives to the field of speech accent analysis, shedding light on the significance of accent in English communication and its broader implications.
 
